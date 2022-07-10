@@ -5,6 +5,6 @@ Challenge Oracle Lógica de Programação
 
 00/00/2022 - Entrega do Projeto
 
-## [Preview - CLIQUE AQUI](https://#/)
+## [PROJETO - CLIQUE AQUI](https://marceloicampos.github.io/challenge-oracle-logica-hangman/)
 
-![](https://###.#####png)
+![](https://raw.githubusercontent.com/marceloicampos/challenge-oracle-logica-hangman/main/img/hangman.jpg)
